@@ -30,8 +30,8 @@ To run the Load Management API locally, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Ajay082/liveasy_assignment.git
-cd liveasy_assignment
+git clone https://github.com/Ajay082/load-management-api.git
+cd load-management-api
 ```
 
 ### Configure Database
