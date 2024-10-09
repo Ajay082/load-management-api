@@ -156,8 +156,6 @@ DELETE /load/1
 ## Contributing
 Feel free to submit issues or create pull requests for improvements and enhancements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Notes:
 - Replace placeholders like `yourusername`, `your_database_name`, `your_username`, and `your_password` with actual values.
